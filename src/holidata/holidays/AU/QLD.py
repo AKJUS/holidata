@@ -249,7 +249,7 @@ class QLD(Region):
             .with_flags("RF")
 
         """
-        28 December 
+        28 December
         A public holiday is to be observed on 28 December only if 26 December is a Saturday or Sunday.
         """
         self.define_holiday() \

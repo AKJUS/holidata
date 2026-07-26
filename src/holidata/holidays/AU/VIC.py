@@ -29,7 +29,7 @@ class VIC(Region):
         26 January, or the Monday after Australia Day when Australia Day is a Saturday or Sunday
         2009: https://content.legislation.vic.gov.au/sites/default/files/ccbe13db-9862-3b4f-b16c-8f9a552d2dbc_93-119a024.pdf
         2011: https://content.legislation.vic.gov.au/sites/default/files/68a646e7-a547-39aa-adac-b2d5e4bfa756_93-119aa025%20authorised.pdf
-        2019: https://content.legislation.vic.gov.au/sites/default/files/ad24ad2c-06f2-3ae3-b0ce-1fcd9b5f61a0_93-119aa026%20authorised.pdf        
+        2019: https://content.legislation.vic.gov.au/sites/default/files/ad24ad2c-06f2-3ae3-b0ce-1fcd9b5f61a0_93-119aa026%20authorised.pdf
         """
         self.define_holiday() \
             .with_name("Australia Day") \

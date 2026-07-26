@@ -10,7 +10,7 @@ __all__ = [
 """
 sources:
 - LEGGE 27 maggio   1949, n. 260 https://www.gazzettaufficiale.it/eli/gu/1949/05/31/124/sg
-- LEGGE  5 marzo    1977, n.  54 https://www.gazzettaufficiale.it/eli/id/1977/03/07/077U0054/sg 
+- LEGGE  5 marzo    1977, n.  54 https://www.gazzettaufficiale.it/eli/id/1977/03/07/077U0054/sg
 - LEGGE 20 novembre 2000, n. 336 https://www.gazzettaufficiale.it/eli/id/2000/11/22/000G0390/sg
 - DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1985, n. 792
                                  https://www.gazzettaufficiale.it/eli/id/1985/12/31/085U0792/sg

@@ -166,7 +166,7 @@ class SA(Region):
         following Monday will be a public holiday instead of that day and that day
         and the following Monday will be bank holidays; and
         (b) when a day mentioned in Part 2 of Schedule 2 falls on a Sunday, that day and
-        the following Monday will be public holidays and bank holidays. 
+        the following Monday will be public holidays and bank holidays.
         https://www.legislation.sa.gov.au/__legislation/lz/c/a/holidays%20act%201910/current/1910.1010.auth.pdf
         """
         self.define_holiday() \

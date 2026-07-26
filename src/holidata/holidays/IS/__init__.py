@@ -86,7 +86,7 @@ class IS(Country):
             .on(first(Weekday.THURSDAY).after(date(Month.APRIL, 18))) \
             .with_flags("NV")
 
-        """ 
+        """
         Both, Christmas Eve (_aðfangadagur jóla_) and New Year's Eve (_gamlársdagur_) are public holidays in Iceland from 13:00 only.
         They're included as full-day holidays, but with an explanatory note.
         """
